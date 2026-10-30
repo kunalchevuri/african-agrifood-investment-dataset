@@ -1,0 +1,13 @@
+network,macro,rho,p
+DFI_count,agri_gdp_share,0.5714285714285715,0.1802019889115274
+DFI_count,domestic_credit_private_pct_gdp,-0.14285714285714288,0.7599453002180929
+DFI_count,agri_employment_share,0.6785714285714287,0.0937502539598313
+DFI_count,fdi_inflows_pct_gdp,-0.4642857142857144,0.2939341076002517
+multi_investor_deals,agri_gdp_share,0.5714285714285715,0.1802019889115274
+multi_investor_deals,domestic_credit_private_pct_gdp,-0.07142857142857144,0.8790481931481541
+multi_investor_deals,agri_employment_share,0.1785714285714286,0.7016579425162729
+multi_investor_deals,fdi_inflows_pct_gdp,-0.4642857142857144,0.2939341076002517
+unique_investors,agri_gdp_share,0.642857142857143,0.11939237342741094
+unique_investors,domestic_credit_private_pct_gdp,-0.1785714285714286,0.7016579425162729
+unique_investors,agri_employment_share,0.21428571428571433,0.6445115810207203
+unique_investors,fdi_inflows_pct_gdp,-0.42857142857142866,0.337368311085824

@@ -1,0 +1,18 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Applies to: data/ and verified_findings/.
+
+You are free to share and adapt this material for any purpose, including
+commercially, provided you give appropriate credit, link to the licence, and
+indicate if changes were made.
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Attribution:
+  Chevuri, K., Poon, A., Mahabir, R., Mgomezulu, W., Komwa, M., and
+  Gkountouna, O. (2026). Deal-level dataset of African agrifood investment,
+  2015-2025.
+
+The underlying disclosures are public records of the institutions named in
+each row's source_name / source_url field. Natural Earth boundary data
+(data/raw_sources/geo/) are in the public domain.

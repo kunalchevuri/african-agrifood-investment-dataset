@@ -1,0 +1,128 @@
+deal_id,company_name,country,investment_date,agrifood_segment,funding_stage,funding_amount_usd,investor_name,investor_type,is_lead_investor,source_name,source_url,extraction_method,confidence_flag
+Complete_2022,Complete Farmer,Ghana,2022-01-01,unknown,unknown,,Katapult Accelerator,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+MooMe_2022,MooMe,Tunisia,2022-01-01,agritech,seed,270000.0,Katapult Accelerator,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,1
+HeyFood_2022,HeyFood,Nigeria,2022-01-01,unknown,unknown,,Y Combinator,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+Chowdeck_2022,Chowdeck,Unknown,2022-01-01,unknown,unknown,,Y Combinator,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+Complete_2022,Complete Farmer,Ghana,2022-01-01,unknown,unknown,,Mercy Corps Ventures,impact_fund,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+StableFo_2022,Stable Foods,Kenya,2022-01-01,agritech,seed,600000.0,Mercy Corps Ventures,impact_fund,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,1
+Kamioun_2022,Kamioun,Tunisia,2022-01-01,unknown,unknown,,Launch Africa,unknown,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+Zanifu_2022,Zanifu,Kenya,2022-01-01,unknown,seed,1000000.0,Launch Africa,unknown,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,1
+Farmerli_2022,Farmerline,Ghana,2022-01-01,financial_services,blended,13000000.0,Acumen Resilient Agriculture Fund,impact_fund,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,1
+SunCultu_2022,SunCulture,Kenya,2022-01-01,unknown,unknown,,Acumen Resilient Agriculture Fund,impact_fund,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+MelaninK_2022,Melanin Kapital,Unknown,2022-01-01,unknown,unknown,,Techstars,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+ORDA_2022,ORDA,Nigeria,2022-01-01,unknown,seed,3400000.0,Techstars,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,1
+Mozare3_2022,Mozare3,Egypt,2022-01-01,unknown,unknown,,Pitch AgriHack,unknown,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+Farmio_2022,Farmio,Ghana,2022-01-01,production,seed,100000.0,Pitch AgriHack,unknown,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,1
+Kamioun_2022,Kamioun,Tunisia,2022-01-01,unknown,unknown,,Flat6Labs,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+PacknSav_2022,PacknSave,Unknown,2022-01-01,unknown,unknown,,Flat6Labs,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+OmniBiz_2022,Omnibiz,Nigeria,2022-01-01,unknown,unknown,,LoftyInc Capital Management,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+Bamboo_2022,Bamboo,Unknown,2022-01-01,unknown,unknown,,LoftyInc Capital Management,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+Wasoko_2022,Wasoko,Kenya,2022-01-01,processing,series_b,125000000.0,4DX Ventures,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,1
+MaxAB_2021,MaxAB,Egypt,2021-01-01,logistics,series_a,55000000.0,4DX Ventures,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,1
+DeNovoFo_2022,De Novo Foodlabs,Unknown,2022-01-01,unknown,unknown,,Plug and Play,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+TradeBuz_2022,Trade Buza,Unknown,2022-01-01,unknown,unknown,,Plug and Play,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+ORDA_2022,ORDA,Nigeria,2022-01-01,unknown,seed,3400000.0,Quona Capital,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,1
+Wasoko_2022,Wasoko,Kenya,2022-01-01,processing,series_b,125000000.0,Quona Capital,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,1
+ApolloAg_2021,Apollo Agriculture,Kenya,2021-01-01,financial_services,debt,10500000.0,Endeavor Catalyst,unknown,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,1
+Chari_2021,Chari,Morocco,2021-01-01,unknown,seed,5200000.0,Endeavor Catalyst,unknown,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,1
+Wasoko_2022,Wasoko,Kenya,2022-01-01,processing,series_b,125000000.0,Tiger Global Management,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,1
+Bamboo_2022,Bamboo,Unknown,2022-01-01,unknown,unknown,,Tiger Global Management,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+OmniBiz_2022,Omnibiz,Nigeria,2022-01-01,unknown,unknown,,Ventures Platform,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+Fluna_2022,Fluna,Nigeria,2022-01-01,unknown,unknown,,Ventures Platform,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+OmniBiz_2022,Omnibiz,Nigeria,2022-01-01,unknown,unknown,,Chandaria Capital,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+Bamboo_2022,Bamboo,Unknown,2022-01-01,unknown,unknown,,Chandaria Capital,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+AgriAku_2022,AgriAku,Unknown,2022-01-01,unknown,unknown,,Mercy Corps Ventures,impact_fund,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+Agruppa_2022,Agruppa,Unknown,2022-01-01,unknown,unknown,,Mercy Corps Ventures,impact_fund,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+Cinch_2022,Cinch,Kenya,2022-01-01,unknown,unknown,,Mercy Corps Ventures,impact_fund,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+FarmDriv_2022,FarmDrive,Kenya,2022-01-01,unknown,unknown,,Mercy Corps Ventures,impact_fund,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+Harvesti_2022,Harvesting,Unknown,2022-01-01,unknown,unknown,,Mercy Corps Ventures,impact_fund,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+Ignitia_2022,Ignitia,Unknown,2022-01-01,unknown,unknown,,Mercy Corps Ventures,impact_fund,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+FloodBas_2022,FloodBase,Unknown,2022-01-01,unknown,unknown,,Mercy Corps Ventures,impact_fund,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+Meridia_2022,Meridia,Multinational,2022-01-01,unknown,unknown,,Mercy Corps Ventures,impact_fund,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+OFP_2022,OFP,Unknown,2022-01-01,unknown,unknown,,Mercy Corps Ventures,impact_fund,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+VegaCoff_2022,Vega Coffee,Unknown,2022-01-01,unknown,unknown,,Mercy Corps Ventures,impact_fund,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+OKO_2022,OKO,Mali,2022-01-01,unknown,unknown,,Mercy Corps Ventures,impact_fund,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+Suyo_2022,Suyo,Unknown,2022-01-01,unknown,unknown,,Mercy Corps Ventures,impact_fund,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+Topl_2022,Topl,Unknown,2022-01-01,unknown,unknown,,Mercy Corps Ventures,impact_fund,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+Vasham_2022,Vasham,Unknown,2022-01-01,unknown,unknown,,Mercy Corps Ventures,impact_fund,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+KwanzaTu_2022,Kwanza Tukule,Kenya,2022-01-01,unknown,unknown,,Mercy Corps Ventures,impact_fund,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+Verqor_2022,Verqor,Unknown,2022-01-01,unknown,unknown,,Mercy Corps Ventures,impact_fund,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+Wasoko_2022,Wasoko,Kenya,2022-01-01,processing,series_b,125000000.0,Mercy Corps Ventures,impact_fund,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,1
+Farmerli_2022,Farmerline,Ghana,2022-01-01,financial_services,blended,13000000.0,FMO Ventures Program / Endeavor South Africa,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,1
+ArcAqua_2022,ArcAqua,South Africa,2022-01-01,unknown,unknown,,FMO Ventures Program / Endeavor South Africa,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+EzyAgric_2022,EzyAgric,Uganda,2022-01-01,unknown,unknown,,FMO Ventures Program / Endeavor South Africa,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+TROTROTr_2022,TROTRO Tractor,Ghana,2022-01-01,unknown,unknown,,FMO Ventures Program / Endeavor South Africa,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+DigiExt_2022,DigiExt,Unknown,2022-01-01,unknown,unknown,,FMO Ventures Program / Endeavor South Africa,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+TOFA_2022,TOFA,Nigeria,2022-01-01,unknown,unknown,,FMO Ventures Program / Endeavor South Africa,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+Jangolo_2022,Jangolo,Unknown,2022-01-01,unknown,unknown,,FMO Ventures Program / Endeavor South Africa,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+WinichFa_2022,Winich Farms,Nigeria,2022-01-01,unknown,unknown,,FMO Ventures Program / Endeavor South Africa,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+Farmz2u_2022,Farmz2u,Nigeria,2022-01-01,unknown,unknown,,FMO Ventures Program / Endeavor South Africa,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+Agromovi_2022,Agromovil,Unknown,2022-01-01,unknown,unknown,,FMO Ventures Program / Endeavor South Africa,pe_vc,,AgFunder Africa Report (2023 Report),https://agfunder.com/research/,llm_extracted,2
+MarketFo_2022,MarketForce,Kenya,2022-01-01,unknown,series_a,40000000.0,Launch Africa,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,1
+Omnibiz_2022,Omnibiz,Nigeria,2022-01-01,unknown,unknown,,Launch Africa,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+Pricepal_2022,Pricepally.com,Nigeria,2022-01-01,unknown,unknown,,Launch Africa,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+KUNE_2022,KUNE,Kenya,2022-01-01,unknown,unknown,,Launch Africa,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+Gozem_2022,Gozem,Unknown,2022-01-01,unknown,unknown,,Launch Africa,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+Chekkit_2022,Chekkit,Unknown,2022-01-01,unknown,unknown,,Launch Africa,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+GroceryP_2022,GroceryPik,Kenya,2022-01-01,unknown,unknown,,Launch Africa,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+Afrikama_2022,Afrikamart,Senegal,2022-01-01,unknown,unknown,,Launch Africa,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+1Trolley_2022,1Trolley,Egypt,2022-01-01,unknown,unknown,,Launch Africa,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+MunchZim_2022,Munch Zimbabwe,Zimbabwe,2022-01-01,unknown,unknown,,Launch Africa,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+Zr3icom_2022,Zr3i.com,Egypt,2022-01-01,unknown,unknown,,Flat6Labs Cairo,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+Lunchies_2022,Lunchies,Egypt,2022-01-01,unknown,unknown,,Flat6Labs Cairo,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+ElSuppli_2022,ElSupplier.com,Egypt,2022-01-01,unknown,unknown,,Flat6Labs Cairo,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+ILLA_2022,ILLA,Egypt,2022-01-01,unknown,unknown,,Flat6Labs Cairo,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+PacknSav_2022,PacknSave,Unknown,2022-01-01,unknown,unknown,,Flat6Labs Cairo,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+Kokens_2022,Kokens,Egypt,2022-01-01,unknown,unknown,,Flat6Labs Cairo,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+ZatonaEa_2022,Zatona Eats,Egypt,2022-01-01,unknown,unknown,,Flat6Labs Cairo,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+Kamioun_2022,Kamioun,Tunisia,2022-01-01,unknown,unknown,,Flat6Labs Cairo,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+PayPecke_2022,PayPecker,Nigeria,2022-01-01,unknown,unknown,,LoftyInc Capital Management,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+Omnibiz_2022,Omnibiz,Nigeria,2022-01-01,unknown,unknown,,LoftyInc Capital Management,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+ORDA_2022,ORDA,Nigeria,2022-01-01,unknown,seed,3400000.0,LoftyInc Capital Management,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,1
+Tagaddod_2022,Tagaddod,Unknown,2022-01-01,unknown,unknown,,LoftyInc Capital Management,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+Appetito_2022,Appetito,Egypt,2022-01-01,unknown,unknown,,LoftyInc Capital Management,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+ILLA_2022,ILLA,Egypt,2022-01-01,unknown,unknown,,LoftyInc Capital Management,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+CashBack_2022,CashBackApp,Unknown,2022-01-01,unknown,unknown,,LoftyInc Capital Management,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+MarketFo_2022,MarketForce,Kenya,2022-01-01,unknown,series_a,40000000.0,Y Combinator,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,1
+Vendease_2022,Vendease,Nigeria,2022-01-01,logistics,series_a,30000000.0,Y Combinator,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,1
+Suplias_2022,Suplias,Nigeria,2022-01-01,unknown,unknown,,Y Combinator,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+Jabu_2022,Jabu,Namibia,2022-01-01,processing,series_a,15000000.0,Y Combinator,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,1
+Chari_2021,Chari,Morocco,2021-01-01,unknown,seed,5200000.0,Y Combinator,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,1
+Breadfas_2022,Breadfast,Egypt,2022-01-01,unknown,unknown,,Y Combinator,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+GoBEBA_2022,GoBEBA,Kenya,2022-01-01,unknown,unknown,,DFS Lab,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+ORDA_2022,ORDA,Nigeria,2022-01-01,unknown,seed,3400000.0,DFS Lab,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,1
+AndoFood_2022,Ando Foods,Unknown,2022-01-01,unknown,unknown,,DFS Lab,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+Appetito_2022,Appetito,Egypt,2022-01-01,unknown,unknown,,DFS Lab,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+Tanda_2022,Tanda,Unknown,2022-01-01,unknown,unknown,,DFS Lab,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+OKO_2022,OKO,Mali,2022-01-01,unknown,unknown,,Techstars,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+HyaBiopl_2021,Hya Bioplastics,Uganda,2021-01-01,unknown,unknown,,Techstars,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,1
+Tegarti_2022,Tegarti,Unknown,2022-01-01,unknown,unknown,,Techstars,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+Duhqa_2022,Duhqa,Kenya,2022-01-01,unknown,unknown,,Techstars,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+Tagaddod_2022,Tagaddod,Unknown,2022-01-01,unknown,unknown,,Kepple Africa Ventures,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+ILLA_2022,ILLA,Egypt,2022-01-01,unknown,unknown,,Kepple Africa Ventures,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+Cartona_2022,Cartona,Egypt,2022-01-01,logistics,series_a,12000000.0,Kepple Africa Ventures,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,1
+Numida_2021,Numida,Uganda,2021-01-01,financial_services,seed,2300000.0,Kepple Africa Ventures,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,1
+Brimore_2022,Brimore,Egypt,2022-01-01,unknown,unknown,,Endeavor Catalyst,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+MaxAB_2021,MaxAB,Egypt,2021-01-01,logistics,series_a,55000000.0,Endeavor Catalyst,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,1
+TradeDep_2021,TradeDepot,Nigeria,2021-01-01,processing,series_b,42000000.0,Endeavor Catalyst,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,1
+TwigaFoo_2023,Twiga Foods,Kenya,2023-01-01,logistics,unknown,35000000.0,Endeavor Catalyst,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,1
+Natrify_2022,Natrify,Egypt,2022-01-01,unknown,unknown,,Village Capital,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+PlugnGro_2022,Plug'n'Grow,Egypt,2022-01-01,unknown,unknown,,Village Capital,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+Cupmena_2021,Cupmena,Egypt,2021-01-01,production,unknown,,Village Capital,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,1
+Chari_2021,Chari,Morocco,2021-01-01,unknown,seed,5200000.0,Village Capital,pe_vc,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,1
+Jabu_2022,Jabu,Namibia,2022-01-01,processing,series_a,15000000.0,FJ Labs,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,1
+Alerzo_2021,Alerzo,Nigeria,2021-01-01,unknown,series_a,10500000.0,FJ Labs,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,1
+inyad_2022,inyad,Unknown,2022-01-01,unknown,unknown,,FJ Labs,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+Aeroboti_2022,Aerobotics,South Africa,2021-01-21,agritech,unknown,,FMO,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,1
+Farmerli_2022,Farmerline,Ghana,2022-01-01,financial_services,blended,13000000.0,FMO,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,1
+AcumenRe_2022,Acumen Resilient Agriculture Fund,Unknown,2022-01-01,unknown,unknown,,FMO,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+Novastar_2022,Novastar Ventures,Unknown,2022-01-01,unknown,unknown,,FMO,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+ApolloAg_2021,Apollo Agriculture,Kenya,2021-01-01,financial_services,debt,10500000.0,British International Investment (BII),unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,1
+CropIn_2022,CropIn,Unknown,2022-01-01,unknown,unknown,,British International Investment (BII),unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,2
+iProcure_2022,iProcure,Kenya,2022-01-01,inputs,series_b,9000000.0,British International Investment (BII),unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,1
+PulaAdvi_2021,Pula Advisors,Kenya,2021-01-01,financial_services,series_a,6000000.0,British International Investment (BII),unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,1
+Farmerli_2022,Farmerline,Ghana,2022-01-01,financial_services,blended,13000000.0,DEG,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,1
+Farmerli_2022,Farmerline,Ghana,2022-01-01,financial_services,blended,13000000.0,Rabobank,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,1
+Farmerli_2022,Farmerline,Ghana,2022-01-01,financial_services,blended,13000000.0,Ceniarth,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,1
+Farmerli_2022,Farmerline,Ghana,2022-01-01,financial_services,blended,13000000.0,Rippleworks,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,1
+Farmerli_2022,Farmerline,Ghana,2022-01-01,financial_services,blended,13000000.0,Kiva,unknown,,AgFunder Africa Report (2022 Report),https://agfunder.com/research/,llm_extracted,1

@@ -1,0 +1,2 @@
+total_records,unique_deals,unique_companies,unique_investors,countries,coinvestment_deals,coinvestment_with_amount,disclosed_volume_usd,mean_investors_per_deal,max_investors_per_deal,pct_confidence_1,nodes,edges,density,components,distinct_source_names,distinct_source_domains,n_dfi,n_non_dfi,largest_component,largest_component_edges
+1060,389,313,420,30,202,183,6986713928.64,4.32,18,87.2,420,1761,0.02,19,121,66,27,393,353,1640

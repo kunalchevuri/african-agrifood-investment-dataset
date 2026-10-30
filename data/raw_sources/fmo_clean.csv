@@ -1,0 +1,8 @@
+deal_id,company_name,country,investment_date,agrifood_segment,funding_stage,funding_amount_usd,investor_name,investor_type,is_lead_investor,source_name,source_url,extraction_method,confidence_flag
+CocoaFin_2025,Cocoa Financing  Limited Company,Ghana,2025-09-26,unknown,debt,7500000.0,FMO,DFI,True,FMO Project List,https://www.fmo.nl/project-list,structured_download,1
+NileFres_2025,Nile Fresh Pty Ltd,South Africa,2025-04-15,unknown,debt,2805000.0,FMO,DFI,True,FMO Project List,https://www.fmo.nl/project-list,structured_download,1
+YaleloUS_2025,Yalelo (U) SMC Limited,Uganda,2025-03-13,unknown,debt,10800.0,FMO,DFI,True,FMO Project List,https://www.fmo.nl/project-list,structured_download,1
+ValencyI_2024,Valency International DMCC,Nigeria,2024-12-16,unknown,debt,6670000.0,FMO,DFI,True,FMO Project List,https://www.fmo.nl/project-list,structured_download,1
+Mediterr_2024,Mediterraneo Industries Company SAE,Egypt,2024-11-26,unknown,debt,10000000.0,FMO,DFI,True,FMO Project List,https://www.fmo.nl/project-list,structured_download,1
+LevasFlo_2024,LevasFlor AB,Mozambique,2024-11-05,unknown,debt,1210000.0,FMO,DFI,True,FMO Project List,https://www.fmo.nl/project-list,structured_download,1
+EAFoodsL_2024,EA Foods Limited,"Tanzania, United Republic of",2024-10-30,unknown,debt,2500000.0,FMO,DFI,True,FMO Project List,https://www.fmo.nl/project-list,structured_download,1

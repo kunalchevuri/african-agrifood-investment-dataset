@@ -1,0 +1,101 @@
+deal_id,company_name,investor_name,stream,year,source_url,status,company,investor,year_on_page,amount
+D002e459f87,Hya Bioplastics,Techstars,llm_extracted,2021,https://agfunder.com/research/,"url names a publication, not a document",,,,
+D040f135c2c,TradeDepot,Endeavor Catalyst,llm_extracted,2021,https://agfunder.com/research/,"url names a publication, not a document",,,,
+D08d3474e6a,FarmDrive,Mercy Corps Ventures,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+D134c6e6a6e,ORDA,Quona Capital,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+D147c5a4d5a,Brimore,Endeavor Catalyst,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+D190528a84e,Lunchies,Flat6Labs,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+D1b99f996d5,Vendease,Y Combinator,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+D1bc3fb7b02,Cinch,Mercy Corps Ventures,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+D1cd796245e,Jabu,Y Combinator,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+D20ae41ec11,HeyFood,Y Combinator,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+D2537a3ac33,1Trolley,Launch Africa,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+D2f5c66de03,EzyAgric,FMO,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+D58f3c819b0,Chari,Endeavor Catalyst,llm_extracted,2021,https://agfunder.com/research/,"url names a publication, not a document",,,,
+D58f3c819b0,Chari,Village Capital,llm_extracted,2021,https://agfunder.com/research/,"url names a publication, not a document",,,,
+D5a63563b63,MarketForce,Launch Africa,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+D637aa5548d,Complete Farmer,Katapult,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+D637aa5548d,Complete Farmer,Mercy Corps Ventures,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+D65b8bed360,Natrify,Village Capital,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+D6815bd6bfa,Pricepally,Launch Africa,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+D69d584c7de,Omnibiz,Launch Africa,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+D69d584c7de,Omnibiz,LoftyInc Capital Management,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+D69d584c7de,Omnibiz,Ventures Platform,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+D77637b26d7,Jangolo,FMO,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+D7d459831e6,Pula,British International Investment,llm_extracted,2021,https://agfunder.com/research/,"url names a publication, not a document",,,,
+D8afc0a7649,CashBackApp,LoftyInc Capital Management,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+Da666a859df,TROTRO Tractor,FMO,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+Da8c066f560,TOFA,FMO,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+Dac0db6e40b,Kamioun,Flat6Labs,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+Dac0db6e40b,Kamioun,Launch Africa,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+Dace66da21f,Kokens,Flat6Labs,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+Db30e2360f6,Appetito,DFS Lab,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+Db6c57ba87b,Breadfast,Y Combinator,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+Db77acce7d6,ILLA,Flat6Labs,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+Db77acce7d6,ILLA,Kepple Africa Ventures,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+Db77acce7d6,ILLA,LoftyInc Capital Management,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+Dcc75fa928f,ArcAqua,FMO,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+Ddd50b9b2c0,GoBEBA,DFS Lab,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+De19240fdad,PayPecker,LoftyInc Capital Management,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+De393ed34e8,DigiExt,FMO,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+Deb5545401b,Zr3i.com,Flat6Labs,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+Debb6338b43,Cupmena,Village Capital,llm_extracted,2021,https://agfunder.com/research/,"url names a publication, not a document",,,,
+Df4eda4b72b,Wasoko,4DX Ventures,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+Df4eda4b72b,Wasoko,Quona Capital,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+Df4eda4b72b,Wasoko,Tiger Global Management,llm_extracted,2022,https://agfunder.com/research/,"url names a publication, not a document",,,,
+D05768f3b74,Kune,Century Oak Capital,manual,2021,https://techcrunch.com/2021/06/16/kenyan-foodtech-startup-kune-raises-1m-pre-seed-for-its-ready-to-eat-meals-service/,fetched,True,True,True,True
+D05d74e2c77,Aquarech,Mercy Corps Ventures,manual,2023,https://www.aquarech.com/post/aquarech-closes-1-7-million-seed-round,fetched,True,True,True,True
+D096626bdfd,WARC Group,Rippleworks,manual,2024,https://impactalpha.com/warc-raises-7-5-million-to-expand-market-for-regenerative-agriculture-in-west-africa/,fetched,True,True,True,False
+D097fba824c,Apollo Agriculture,Swedfund,manual,2024,https://techcrunch.com/,"url names a publication, not a document",,,,
+D147c5a4d5a,Brimore,International Finance Corporation,manual,2022,https://www.ifc.org/en/pressroom/2022/ifc-invests-in-egypts-brimore-to-support-the-growth-of-e-commerc,fetched,True,True,True,True
+D1518baf28f,Adiwale Fund I,FinDev Canada,manual,2019,https://www.africaglobalfunds.com/news/private-equity/fundraising/adiwale-fund-i-hits-first-close-at-50m/,fetched,True,True,True,
+D1b99f996d5,Vendease,Kube VC,manual,2022,https://partechpartners.com/news/vendease-secures-30-million-transform-procurement-and-business-operations-restaurants-across-africa,fetched,True,True,True,True
+D1b99f996d5,Vendease,Partech Africa,manual,2022,https://partechpartners.com/news/vendease-secures-30-million-transform-procurement-and-business-operations-restaurants-across-africa,fetched,True,True,True,True
+D1f530b2937,Gro Intelligence,Africa Internet Ventures,manual,2021,https://disruptafrica.com/2021/01/11/kenyan-data-analytics-company-gro-intelligence-raises-85m-series-b-funding-round/,fetched,True,True,True,True
+D1f530b2937,Gro Intelligence,Rethink Food,manual,2021,https://disruptafrica.com/2021/01/11/kenyan-data-analytics-company-gro-intelligence-raises-85m-series-b-funding-round/,fetched,True,True,True,True
+D1f88830a46,Koa,Mirabaud,manual,2023,https://www.venturekick.ch/Koa-raises-USD-15-Million-in-Series-B-funding-to-revolutionize-cacao-industry-with-upcycled-fruit-juice,fetched,True,True,True,True
+D20ae41ec11,HeyFood,Goodwater Capital,manual,2022,https://techcabal.com/2024/09/19/heyfood-expansion-to-abuja/,fetched,True,True,False,True
+D2213ceaa40,Farmcrowdy,Right-Side Capital,manual,2017,https://disruptafrica.com/2017/12/18/nigerias-farmcrowdy-raises-1m-seed-funding/,fetched,True,True,True,True
+D2b9e6c8027,Twiga Foods,Creadev,manual,2023,https://techcrunch.com/,"url names a publication, not a document",,,,
+D4e4c0ac5b8,Cartona,SANAD Fund for MSME,manual,2022,https://waya.media/cartona-egypts-b2b-e-commerce-platform-raises-12m-in-a-series-a-round/,fetched,True,True,True,True
+D4f19d4c353,Complete Farmer,EchoVC,manual,2020,https://www.dealmakerssouthafrica.com/,"url names a publication, not a document",,,,
+D4f19d4c353,Complete Farmer,Ingressive Capital,manual,2020,https://www.dealmakerssouthafrica.com/,"url names a publication, not a document",,,,
+D4f19d4c353,Complete Farmer,Samurai Incubate,manual,2020,https://www.dealmakerssouthafrica.com/,"url names a publication, not a document",,,,
+D518b1c1743,MaxAB,Mubadala Investment Company,manual,2022,https://techcrunch.com/2022/10/19/maxab-an-egyptian-b2b-e-commerce-platform-for-food-and-grocery-supplies-nabs-40m/,unreachable: HTTPError,,,,
+D52cff0239f,Beekeeper Tech,216 Capital Ventures,manual,2022,https://www.wamda.com/2022/11/tunisia-beekeeper-raises-640000-funding,fetched,True,True,True,False
+D5d100bca5e,Victory Farms,U.S. International Development Finance Corporation,manual,2024,https://ewsdata.rightsindevelopment.org/projects/2024-victoryfarmsl-victory-farms-limited/,fetched,True,True,True,False
+D74a6899a51,Agri-Vie Fund II,Norfund,manual,2019,https://www.globalprivatecapital.org/newsroom/exeo-capital-reaches-usd146-million-final-close-for-agri-vie-fund-ii/,fetched,True,True,True,True
+D762832f927,Tushop,Chandaria Capital,manual,2022,https://disruptafrica.com/2022/04/01/kenyan-social-commerce-startup-tushop-raises-3m-to-scale-community-group-buying/,fetched,True,True,True,True
+D7fad17336d,Business Partners International East Africa LLC,SIFEM,manual,2015,https://disclosures.ifc.org/,"url names a publication, not a document",,,,
+D820a8aec8c,SOCIETE AFRICAINE D'INGREDIENTS,IDA Private Sector Window,manual,2019,https://disclosures.ifc.org/,"url names a publication, not a document",,,,
+D8e3cb63e07,Twiga Foods,Omidyar Network,manual,2017,https://www.africaglobalfunds.com/news/private-equity/deals/twiga-foods-raises-103m-in-series-a-investment-round/,fetched,True,True,True,False
+D8e76961ce5,AgroCenta,Shell Foundation,manual,2021,https://techcrunch.com/,"url names a publication, not a document",,,,
+D92ae094a37,Aerobotics,Naspers Foundry,manual,2021,https://techcrunch.com/,"url names a publication, not a document",,,,
+D95496cada7,Afrikamart,BLOC Smart Africa Fund,manual,2022,https://www.financialafrik.com/en/2022/06/30/bloc-smart-africa-invests-usd360000-in-afrikamart-a-senegalese-leading-agritech-start-up/,fetched,True,True,True,False
+D98dd4d2b42,Robust International,British International Investment,manual,2024,https://www.fmo.nl/news-detail/a391ed2f-2bb9-4eb1-982e-6f479bd82580/fmo-bii-proparco-and-ilx-team-up-with-robust-international-to-boost-support-for-african-smallholder-farmers,fetched,True,True,True,True
+D99cac0a6f6,MazaoHub,Catalyst Fund,manual,2025,https://dabafinance.com/en/news/mazaohub-ai-agritech-funding,fetched,True,True,True,True
+D99cac0a6f6,MazaoHub,DOB Equity,manual,2025,https://dabafinance.com/en/news/mazaohub-ai-agritech-funding,fetched,True,True,True,True
+D9f065d79e8,Westfalia Fruto Mozambique,International Finance Corporation,manual,2019,https://disclosures.ifc.org/,"url names a publication, not a document",,,,
+Da33931ebe3,The Food Lab,Samurai Incubate,manual,2022,https://disruptafrica.com/2022/04/21/egyptian-cloud-kitchen-startup-the-food-lab-raises-4-5m-pre-seed-round/,fetched,True,True,True,False
+Da5f40527af,Apollo Agriculture,Breyer Capital,manual,2020,https://www.accion.org/news/apollo-agriculture-raises-6-million-to-help-small-scale-farmers-make-more-money/,fetched,True,True,True,True
+Da5f40527af,Apollo Agriculture,Leaps by Bayer,manual,2020,https://techcrunch.com/2020/05/19/kenyas-apollo-agriculture-raises-6m-series-a-led-by-anthemis/,fetched,True,True,True,True
+Da5f40527af,Apollo Agriculture,Sage Hill Capital,manual,2020,https://techcrunch.com/2020/05/19/kenyas-apollo-agriculture-raises-6m-series-a-led-by-anthemis/,fetched,True,False,True,True
+Da97385d608,Terraa,DFS Lab,manual,2023,https://weetracker.com/2023/02/14/moroccan-foodtech-terraa-raises-usd-1-5-m-pre-seed-round/,fetched,True,True,True,True
+Da97385d608,Terraa,FoodLabs,manual,2023,https://weetracker.com/2023/02/14/moroccan-foodtech-terraa-raises-usd-1-5-m-pre-seed-round/,fetched,True,True,True,True
+Da9f04b1b62,Emata,Zephyr Acorn,manual,2023,https://techcrunch.com/,"url names a publication, not a document",,,,
+Dad8baa692e,Keep IT Cool,Acumen,manual,2025,https://www.globalinnovation.fund/news/news/gif-invests-in-supply-chain-solution-creating-value-for-underserved-fishing-communities,fetched,True,True,True,
+Dc141e90f0a,Wasoko,Vertex Ventures,manual,2020,https://techcrunch.com/2020/02/23/sokowatch-raises-14m-to-digitize-africas-informal-b2b-supply-chain/,fetched,False,True,True,True
+Dc31d4fdb89,Suplias,Future Africa,manual,2022,https://disruptafrica.com/2021/08/26/fresh-from-funding-and-yc-nigerian-b2b-marketplace-suplias-aims-to-supercharge-its-growth/,fetched,True,True,True,
+Dc981b268dd,WFP PPP Tanzania Borrowers RSF,GAFSP,manual,2016,https://disclosures.ifc.org/,"url names a publication, not a document",,,,
+Dcb3f78e68c,FarmDrive,The Lakes Charitable Foundation,manual,2019,https://ventureburn.com/2019/02/ewb-canada-investment-farmdrive/,fetched,True,True,True,
+Dd2170271d0,Vendease,Magic Fund,manual,2021,https://www.africaprivateequitynews.com/p/nigerian-food-supply-platform-raises-3-2m,fetched,True,True,True,False
+Dd28524c156,AgDevCo,British International Investment,manual,2025,https://www.bii.co.uk/en/news-insight/news/bii-swedfund-and-norfund-invest-85-million-in-agdevco-to-support-agribusinesses-in-africa/,unreachable: HTTPError,,,,
+Dd70fe3e826,Chari,H&S Invest Holding,manual,2025,https://www.wamda.com/en/2025/10/chari-secures-12-million-series-payment-licence-bank-al-maghrib,fetched,True,True,True,True
+Dd70fe3e826,Chari,Reflect Ventures,manual,2025,https://www.wamda.com/en/2025/10/chari-secures-12-million-series-payment-licence-bank-al-maghrib,fetched,True,True,True,True
+Dd70fe3e826,Chari,UM6P Ventures,manual,2025,https://www.wamda.com/en/2025/10/chari-secures-12-million-series-payment-licence-bank-al-maghrib,fetched,True,True,True,True
+Dd77dd03f24,Pricepally,SOSV,manual,2023,https://techcrunch.com/2023/11/17/pricepally-raises-seed-funding/,fetched,True,True,True,False
+De13ee1e5e7,ZAMBEEF PRODUCTS PLC,IDA Private Sector Window,manual,2022,https://disclosures.ifc.org/,"url names a publication, not a document",,,,
+De94bc9f728,Complete Farmer,VestedWorld,manual,2023,https://techcrunch.com/,"url names a publication, not a document",,,,
+Df6714e39b8,Victory Farms,AgDevCo,manual,2021,https://agdevco.com/our-investments/victory-farms-limited/,fetched,True,True,True,True
+Dfafedb1523,Acumen Resilient Agriculture Fund II,FMO,manual,2025,https://acumen.org/news/acumen-araf-climate-resilient-agriculture-africa/,fetched,True,True,True,False
+Dfb94c80a9f,Enda Tamweel,ASN Microkredietpool,manual,2020,https://www.fmo.nl/news-detail/63e96c39-0109-4122-aae7-4284b6c71a55/fmo-supports-enda-tamweel-with-first-international-syndication-for-tunisia-s-microfinance-sector,fetched,True,True,True,False

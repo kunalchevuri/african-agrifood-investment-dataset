@@ -1,0 +1,4 @@
+stream,sources,rows,deals,investors,deals_with_amount_pct,mean_investors_per_deal,deals_two_plus_pct,mean_private_coinvestors,deals_with_dfi_pct,flag1_pct
+portal,4,185,134,8,98.5,1.07,2.2,0.0,100.0,95.1
+llm,2,78,44,20,15.9,1.39,20.5,1.16,22.7,33.3
+manual,115,797,211,415,90.5,4.06,90.0,3.1,50.2,90.6

@@ -1,0 +1,2 @@
+companies,treated,treated_with_pre,treated_with_post,treated_with_both,never_treated,never_treated_multi_year,observed_company_years,balanced_company_years,filled_zero_pct
+313,212,12,27,5,101,17,387,3443,88.8

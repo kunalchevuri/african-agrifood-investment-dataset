@@ -1,0 +1,6 @@
+deal_id,company_name,country,year,rows,evidence
+Dc33d00d9d4,AGFLOW VENTURES,Ethiopia,2021,2,day-level dates 121 days apart
+Dd62ee80c70,Aerobotics,South Africa,2019,5,"two named rounds: seed, series_a"
+D1f5c64411e,Grainpulse,Uganda,2019,2,day-level dates 169 days apart
+D6879f557c3,Nile Fresh Pty Ltd,South Africa,2025,3,day-level dates 58 days apart
+Db7afd5b824,SunCulture,Kenya,2025,2,day-level dates 194 days apart

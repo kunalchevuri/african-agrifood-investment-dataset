@@ -1,0 +1,42 @@
+{
+  "title": "Do Development Finance Institutions Crowd In Private Capital? Network Evidence from African Agrifood Investment, 2015-2025: data and code",
+  "upload_type": "dataset",
+  "description": "Assembled deal-level dataset of African agrifood investment 2015-2025, the source extracts it is rebuilt from, and the analysis pipeline that regenerates every number, table and figure in the paper.",
+  "creators": [
+    {
+      "name": "Chevuri, Kunal",
+      "affiliation": "Prosper High School"
+    },
+    {
+      "name": "Poon, Alexander",
+      "affiliation": "Edison Academy Magnet School"
+    },
+    {
+      "name": "Mahabir, Ron",
+      "affiliation": "University of Liverpool"
+    },
+    {
+      "name": "Mgomezulu, Wisdom",
+      "affiliation": "AGRA, Data and Analytics Unit, Nairobi, Kenya"
+    },
+    {
+      "name": "Komwa, Maction",
+      "affiliation": "George Mason University"
+    },
+    {
+      "name": "Gkountouna, Olga",
+      "affiliation": "University of Liverpool"
+    }
+  ],
+  "keywords": [
+    "development finance institutions",
+    "blended finance",
+    "co-investment networks",
+    "agrifood systems",
+    "Africa",
+    "network analysis"
+  ],
+  "version": "1.1.0",
+  "license": "cc-by-4.0",
+  "access_right": "open"
+}

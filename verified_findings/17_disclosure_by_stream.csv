@@ -1,0 +1,8 @@
+dfi,stream,deals,mean_private,n_nondfi_portal_deals
+no DFI,AgFunder report only,34,1.4705882352941178,0
+no DFI,mixed,11,5.2727272727272725,0
+no DFI,press or manual only,94,4.180851063829787,0
+DFI present,AgFunder report only,10,0.1,0
+DFI present,mixed,46,1.5,0
+DFI present,portal only,134,0.0,0
+DFI present,press or manual only,60,2.25,0

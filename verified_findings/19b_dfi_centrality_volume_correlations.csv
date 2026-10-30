@@ -1,0 +1,6 @@
+x,y,spearman_rho,p,n_dfi,top3_volume_share_pct
+betweenness,volume,0.572,0.0018,27,43.8
+betweenness,private partners,0.752,0.0,27,43.8
+betweenness,co-investment deals,0.892,0.0,27,43.8
+co-investment deals,volume,0.59,0.0012,27,43.8
+betweenness,volume net of log deal count,-0.009,0.9641,27,43.8

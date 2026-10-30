@@ -1,0 +1,9 @@
+investor_name,investor_type,investment_date,funding_amount_usd,source_name,extraction_method,confidence_flag,amount_musd
+Arcadia Funds,pe_vc,2021-12-06,110000000.0,Manual research - TechCrunch,manual,1,110.0
+British International Investment,DFI,2021-12-06,110000000.0,Manual research - TechCrunch,manual,1,110.0
+Endeavor Catalyst,pe_vc,2021-01-01,42000000.0,AgFunder Africa Report (2022 Report),llm_extracted,1,42.0
+International Finance Corporation,DFI,2021-12-06,110000000.0,Manual research - TechCrunch,manual,1,110.0
+MSA Capital,pe_vc,2021-12-06,110000000.0,Manual research - TechCrunch,manual,1,110.0
+Novastar Ventures,pe_vc,2021-12-06,110000000.0,Manual research - TechCrunch,manual,1,110.0
+Partech Africa,pe_vc,2021-12-06,110000000.0,Manual research - TechCrunch,manual,1,110.0
+Sahel Capital,impact_fund,2021-12-06,110000000.0,Manual research - TechCrunch,manual,1,110.0
